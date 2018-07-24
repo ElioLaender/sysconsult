@@ -1,0 +1,486 @@
+[14-Jun-2016 10:05:52 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 10:06:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Warning:  include_once(config/RequestConfig): failed to open stream: No such file or directory in /home/semprenegociocom/public_html/sysconsult/index.php on line 11
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'config/RequestConfig' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/semprenegociocom/public_html/sysconsult/index.php on line 11
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 19
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Warning:  include_once(config/RequestConfig): failed to open stream: No such file or directory in /home/semprenegociocom/public_html/sysconsult/index.php on line 11
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'config/RequestConfig' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/semprenegociocom/public_html/sysconsult/index.php on line 11
+[14-Jun-2016 10:07:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 19
+[14-Jun-2016 10:07:28 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 19
+[14-Jun-2016 10:08:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 19
+[14-Jun-2016 10:08:51 America/Sao_Paulo] PHP Fatal error:  Class 'AdminModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/AdminDAO.php on line 5
+[14-Jun-2016 10:09:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:10:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:10:08 America/Sao_Paulo] PHP Fatal error:  Class 'NotificationModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/NotificationsDAO.php on line 5
+[14-Jun-2016 10:10:33 America/Sao_Paulo] PHP Fatal error:  Class 'ContatoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/ContatoDAO.php on line 9
+[14-Jun-2016 10:11:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:11:06 America/Sao_Paulo] PHP Fatal error:  Class 'PagamentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/PagamentoDAO.php on line 5
+[14-Jun-2016 10:11:32 America/Sao_Paulo] PHP Fatal error:  Class 'ControllerConfig' not found in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 15
+[14-Jun-2016 10:12:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:12:43 America/Sao_Paulo] PHP Fatal error:  Class 'ControllerConfig' not found in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 15
+[14-Jun-2016 10:12:48 America/Sao_Paulo] PHP Fatal error:  Class 'ControllerConfig' not found in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 15
+[14-Jun-2016 10:13:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:13:22 America/Sao_Paulo] PHP Fatal error:  Class 'ViewConfig' not found in /home/semprenegociocom/public_html/sysconsult/config/ControllerConfig.php on line 35
+[14-Jun-2016 10:14:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:14:02 America/Sao_Paulo] PHP Fatal error:  Class 'SessaoConfig' not found in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 23
+[14-Jun-2016 10:14:44 America/Sao_Paulo] PHP Fatal error:  Class 'ServicosModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/ServicosDAO.php on line 5
+[14-Jun-2016 10:15:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:16:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:17:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:18:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:19:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:20:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:21:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:22:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:23:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:24:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:25:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:26:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:27:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:28:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:29:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:30:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:31:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:32:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:33:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:34:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:35:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:36:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:37:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:38:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:38:15 America/Sao_Paulo] PHP Fatal error:  Class 'TxtFunctions' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/PacienteDAO.php on line 278
+[14-Jun-2016 10:39:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:40:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:41:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:42:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:43:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:44:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:45:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:46:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:47:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:48:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:49:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:50:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:51:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:52:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:53:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:54:02 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:55:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:56:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:57:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:58:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 10:59:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:00:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:01:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:02:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:03:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:04:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:05:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:06:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:07:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:08:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:09:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:10:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:11:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:12:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:13:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:14:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:15:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:16:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:17:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:18:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:19:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:20:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:21:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:22:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:23:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:24:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:25:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:26:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:27:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:28:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:29:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:30:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:30:57 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:31:01 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:31:04 America/Sao_Paulo] PHP Fatal error:  Class 'DataAtendimentoModel' not found in /home/semprenegociocom/public_html/sysconsult/dao/AccessObject/DataAtendimentoDAO.php on line 5
+[14-Jun-2016 11:46:35 America/Sao_Paulo] PHP Fatal error:  Class 'LoadClass' not found in /home/semprenegociocom/public_html/sysconsult/config/SessaoConfig.php on line 66
+[14-Jun-2016 11:48:18 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:48:46 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:49:10 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:49:55 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 11:50:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 11:51:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 11:51:09 America/Sao_Paulo] PHP Fatal error:  Class 'ControllerConfig' not found in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 15
+[14-Jun-2016 11:52:01 America/Sao_Paulo] PHP Warning:  include_once(config/RequestConfig.php): failed to open stream: No such file or directory in /home/semprenegociocom/public_html/sysconsult/index.php on line 9
+[14-Jun-2016 11:52:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'config/RequestConfig.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/semprenegociocom/public_html/sysconsult/index.php on line 9
+[14-Jun-2016 11:52:01 America/Sao_Paulo] PHP Warning:  include_once(config/RouteConfig.php): failed to open stream: No such file or directory in /home/semprenegociocom/public_html/sysconsult/index.php on line 10
+[14-Jun-2016 11:52:01 America/Sao_Paulo] PHP Warning:  include_once(): Failed opening 'config/RouteConfig.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/semprenegociocom/public_html/sysconsult/index.php on line 10
+[14-Jun-2016 11:52:01 America/Sao_Paulo] PHP Fatal error:  Class 'RequestConfig' not found in /home/semprenegociocom/public_html/sysconsult/index.php on line 18
+[14-Jun-2016 11:57:11 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:02 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:04 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:05 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:12 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:28 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 11:59:37 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:00:40 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:00:55 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:01:05 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:01:47 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:03:49 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:04:37 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(196): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:09:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php on line 46
+[14-Jun-2016 12:43:16 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:43:52 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:44:43 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:44:52 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:47:48 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:47:55 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:48:31 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:48:32 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:48:33 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:48:34 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:48:35 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:50:09 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:50:34 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:50:43 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:51:58 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:51:59 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:52:00 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:52:04 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('fsdf', '7d70663568cac5a...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:52:08 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('fsfsdfdsf fdsfs...', '3c322cbb7c15575...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:52:17 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('laenderquadros@...', 'd155c2f519e9e32...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:53:16 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:53:18 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:00 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:01 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:02 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:03 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:04 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:06 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:56:07 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[14-Jun-2016 12:58:01 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php:106
+Stack trace:
+#0 /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php(106): PDO->__construct('mysql:dbname=Ps...', 'root', '193945')
+#1 /home/semprenegociocom/public_html/sysconsult/controller/DashboardController.php(197): AutenticadorEmBanco->login('', 'd41d8cd98f00b20...')
+#2 /home/semprenegociocom/public_html/sysconsult/index.php(63): DashboardController->login()
+#3 /home/semprenegociocom/public_html/sysconsult/index.php(14): functionDispatcher()
+#4 {main}
+  thrown in /home/semprenegociocom/public_html/sysconsult/config/AutenticadorConfig.php on line 106
+[16-Jun-2016 10:42:40 America/Sao_Paulo] PHP Fatal error:  Call to undefined method EmailController::runSelect() in /home/semprenegociocom/public_html/sysconsult/controller/EmailController.php on line 191
